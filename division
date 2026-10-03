@@ -1,0 +1,5 @@
+Dividing numbers usually look like a / b = c, where a and b are integers, and c is the result 
+If both numbers are positive or negative, then the result is positive
+If both numbers have opposite signs from each other, then the result is negative
+  6/3 = 2
+  -4/3 = -1.3333333...
